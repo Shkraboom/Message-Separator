@@ -1,7 +1,7 @@
 ## Solving the VK test for the Data Science intern position
 
 ## Content
-- [Job Description](#job description)
+- [Job Description](#job-description)
 - [Technology](#technology)
 - [Problem Solution](#task_solution)
 - [Final Result](#final-result)
